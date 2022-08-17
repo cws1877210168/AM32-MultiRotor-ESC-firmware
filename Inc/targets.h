@@ -4,7 +4,7 @@
 //#define FD6288
 //#define IFLIGHT
 //#define MP6531
-//#define TMOTOR55     // like iflight but with leds
+#define TMOTOR55     // like iflight but with leds
 //#define TMOTOR45
 //#define HGLRC
 //#define SISKIN
@@ -18,7 +18,7 @@
 //#define BLPWR
 //#define HVFLYCOLOR
 
-#define G071_64K
+//#define G071_64K
 //#define G071ENABLE
 //#define G071_OPEN_DRAIN
 //#define G071_OPEN_DRAIN_B
