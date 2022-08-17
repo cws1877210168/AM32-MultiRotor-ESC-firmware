@@ -4,8 +4,8 @@
 //#define FD6288
 //#define IFLIGHT
 //#define MP6531
-#define TMOTOR55     // like iflight but with leds
-//#define TMOTOR45
+//#define TMOTOR55     // like iflight but with leds
+#define TMOTOR45
 //#define HGLRC
 //#define SISKIN
 //#define MAMBA_F60PRO
