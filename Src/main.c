@@ -1336,7 +1336,7 @@ void zcfoundroutine(){   // only used in polling mode, blocking routine.
 int main(void)
 {
 
- initAfterJump();
+ initAfterJump()
 
  initCorePeripherals();
 
